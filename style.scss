@@ -68,6 +68,13 @@ body {
         list-style: none;
         display: flex;
         gap: 1rem;
+
+        .desplegable li {
+            display: block;
+            float: left;
+            padding: 10px 15px;
+            
+        }
     }
 
 }

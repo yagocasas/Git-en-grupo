@@ -72,6 +72,11 @@ body {
   display: flex;
   gap: 1rem;
 }
+.header .menu .desplegable li {
+  display: block;
+  float: left;
+  padding: 10px 15px;
+}
 
 .main {
   display: flex;
